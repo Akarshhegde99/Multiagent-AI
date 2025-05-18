@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+jinja2
+pdfkit
+matplotlib
+google-generativeai
+python-dotenv
