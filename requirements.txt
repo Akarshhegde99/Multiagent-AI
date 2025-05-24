@@ -3,3 +3,4 @@ pandas
 matplotlib
 openai>=1.12
 python-dotenv
+plotly>=5.0
